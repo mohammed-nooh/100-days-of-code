@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<!-- ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -27,4 +26,10 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+## Day 1: June 29 2021
+
+**Today's Progress**:Learned arrays and object methods in JavaScript also brushed up on functions.
+
+**Thoughts**: I am realy excited to go to the next part which are DOM events i figure i will reach there day after tommorow after practising what i learnt till now.
