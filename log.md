@@ -33,3 +33,13 @@
 **Today's Progress**:Learned arrays and object methods in JavaScript also brushed up on functions.
 
 **Thoughts**: I am realy excited to go to the next part which are DOM events i figure i will reach there day after tommorow after practising what i learnt till now.
+
+
+
+## Day 2: June 30 2021
+
+**Today's Progress**:Learned for and while loops 
+
+**Thoughts**:Couldnt achieve daily target going to try again tomorrow
+
+
