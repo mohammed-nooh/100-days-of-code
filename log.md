@@ -43,3 +43,9 @@
 **Thoughts**:Couldnt achieve daily target going to try again tomorrow
 
 
+
+## Day 3: July 1 2021
+
+**Today's Progress**:Learned what is DOM and DOM manipulation.Also started practising for neog level 1.
+
+**Thoughts**:Need to balance JS course with preparation for neog level 1
