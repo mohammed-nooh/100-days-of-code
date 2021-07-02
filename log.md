@@ -49,3 +49,11 @@
 **Today's Progress**:Learned what is DOM and DOM manipulation.Also started practising for neog level 1.
 
 **Thoughts**:Need to balance JS course with preparation for neog level 1
+
+
+## Day 4: July 2 2021
+
+**Today's Progress**:Learned to manipulate CSS styles using JS.Bulit my first project in JS.
+
+**Thoughts**:Need to contiue with this momentum daily
+
