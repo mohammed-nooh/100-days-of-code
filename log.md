@@ -51,9 +51,38 @@
 **Thoughts**:Need to balance JS course with preparation for neog level 1
 
 
+
 ## Day 4: July 2 2021
 
 **Today's Progress**:Learned to manipulate CSS styles using JS.Bulit my first project in JS.
 
 **Thoughts**:Need to contiue with this momentum daily
 
+
+## Day 5: July 3 2021
+
+**Today's Progress**:Learned to manipulate CSS classes using JS. Built a project to reinforce what i learned in the past few days.
+
+**Thoughts**:Need to push myself to do better.
+
+
+
+## Day 6: July 4 2021
+
+**Today's Progress**:Started the pig game project.
+
+**Thoughts**:couldn't complete daily target because of accident.
+
+
+## Day 7: July 6 2021
+
+**Today's Progress**:Learned about scopes,hoisting and the this keyword.
+
+**Thoughts**:Need to become the JS king 👑👑👑.
+
+
+## Day 8: July 7 2021
+
+**Today's Progress**:
+
+**Thoughts**:
