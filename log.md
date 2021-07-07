@@ -83,6 +83,6 @@
 
 ## Day 8: July 7 2021
 
-**Today's Progress**:
+**Today's Progress**:Learned about the difference between regular and arrow functions.
 
-**Thoughts**:
+**Thoughts**:Need to balance time for JS and preparation for NEOG camp.
