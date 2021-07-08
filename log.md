@@ -86,3 +86,10 @@
 **Today's Progress**:Learned about the difference between regular and arrow functions.
 
 **Thoughts**:Need to balance time for JS and preparation for NEOG camp.
+
+
+## Day 9: July 8 2021
+
+**Today's Progress**:Learned how the JavaScript engine works.
+
+**Thoughts**:Need to seriously pick up pace if you want to be the JS king 👑👑👑
