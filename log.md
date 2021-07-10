@@ -93,3 +93,14 @@
 **Today's Progress**:Learned how the JavaScript engine works.
 
 **Thoughts**:Need to seriously pick up pace if you want to be the JS king 👑👑👑
+
+
+
+## Day 10: July 9 2021
+
+**Today's Progress**:Learned destructuring arrays and objects
+
+**Thoughts**:Really slow Need to pickup pace if you want to become the JS king.wont br able to study tomorrow beacause of salkaram.
+
+
+
