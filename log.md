@@ -95,7 +95,6 @@
 **Thoughts**:Need to seriously pick up pace if you want to be the JS king 👑👑👑
 
 
-
 ## Day 10: July 9 2021
 
 **Today's Progress**:Learned destructuring arrays and objects
@@ -103,4 +102,9 @@
 **Thoughts**:Really slow Need to pickup pace if you want to become the JS king.wont br able to study tomorrow beacause of salkaram.
 
 
+## Day 11: July 11 2021
+
+**Today's Progress**:Learned about the spread operator and rest pattern.
+
+**Thoughts**:You seriously need to remember why you started this challenge in the first place.
 
